@@ -32,10 +32,10 @@
                   <h2>Media Sosial</h2>
                   <hr />
                   <div class="d-flex gap-3">
-                    <i class="bi bi-facebook"></i>
-                    <i class="bi bi-instagram"></i>
-                    <i class="bi bi-tiktok"></i>
-                    <i class="bi bi-youtube"></i>
+                    <a href="https://www.facebook.com/4smkn/" target="_blank" class="text-decoration-none text-dark"><i class="bi bi-facebook"></i></i></a>
+                    <a href="https://www.instagram.com/smkn4tsmofficial/?igsh=N3k1MTlyeXo4cW9q#" target="_blank" class="text-decoration-none text-dark"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.tiktok.com/@smkn4tasikmalaya?is_from_webapp=1&sender_device=pc" target="_blank" class="text-decoration-none text-dark"><i class="bi bi-tiktok"></i></i></a>
+                    <a href="https://www.youtube.com/@smkn4tasikmalayamediaoffic704" target="_blank" class="text-decoration-none text-dark"><i class="bi bi-youtube"></i></a>
                   </div>
                 </div>
               </div>

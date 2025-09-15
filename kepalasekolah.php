@@ -8,10 +8,11 @@
     <title>SMKN 4 TASIKMALAYA</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
 </head>
-<body>
-   <?php include 'navbar.php';?>
+<body style="background-color: whitesmoke;">
 
-<!-- SECTION SAMBUTAN -->
+      <?php include 'navbar.php';?>
+
+      <!-- SECTION SAMBUTAN -->
     <div class="container my-5">
   <div class="row g-4 align-items-center ">
 
@@ -47,9 +48,5 @@
   </div>
 </div>
 <!-- TUTUP SAMBUTAN -->
-
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
-
-</body>
-</html>
+ </body>
+ </html>
