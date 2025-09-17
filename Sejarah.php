@@ -21,7 +21,7 @@
                 <div class="row">
                     <div class="card"
                         style="background-color: rgba(255, 255, 255, 1); border: 1px solid white; padding: 20px; border-radius: 20px; max-width: 700px; margin: auto;">
-                        <img src="IMG/pto.jpg" alt="" width="100%" height="auto" style="border-radius: 10px;">
+                        <img src="galeri/li.jpg" alt="" width="100%" height="auto" style="border-radius: 10px;">
                         <h4 class="my-4">Latar Belakang</h4>
                         <p>Sejalan dengan Program Pemerintah dibidang pendidikan Menengah Kejuruan pada saat itu yakni
                             pemerataan akses ditambah pula dengan banyaknya keinginan masyarakat yang mengharapkan

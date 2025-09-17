@@ -14,7 +14,7 @@
 
 <!-- SECTION JURUSAN -->
     <section>
-      <div class="container px-5 mt-3">
+      <div class="container pt-5 mt-3">
         <div class="row">
           <div class="col-lg-12">
             <div class="card border-0">

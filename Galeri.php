@@ -48,12 +48,12 @@
  
   <?php 
  $galeri = [
-         'galeri/ri1.JPG',
-         'galeri/ri2.JPG',
-         'galeri/ri3.JPG',
-         'galeri/ri4.JPG',
-         'galeri/ri5.JPG',
-         'galeri/ri6.JPG'
+         'galeri/mbg.JPG',
+         'galeri/mbg1.JPG',
+         'galeri/mbg2.JPG',
+         'galeri/mbg3.JPG',
+         'galeri/mbg4.JPG',
+         'galeri/mbg5.JPG'
  ];
  $i = 0;
  ?>
@@ -63,7 +63,7 @@
         <h3 class="mb-0 my-5 ">Galeri</h3>
         <div class="card">
           <div class="col-lg-12">
-            <h3 class="text-center">PERINGATAN HUT RI KE-80</h3>
+            <h3 class="text-center">MBG SMKN 4 TASIKMALAYA</h3>
             <hr>
             <div class="row m-3">
               <?php while ($i < count($galeri)): ?>
