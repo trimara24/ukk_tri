@@ -35,6 +35,7 @@
               <li><a class="dropdown-item" href="VisiMisi.php">Visi Misi</a></li>
               <li><a class="dropdown-item" href="kepalasekolah.php">kepala sekola</a></li>
               <li><a class="dropdown-item" href="kk.php">Konsentrasi Keahlian</a></li>
+              <li><a class="dropdown-item" href="dfguru.php">Daftar Guru</a></li>
             </ul>
           </li>
 
