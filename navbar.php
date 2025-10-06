@@ -35,16 +35,21 @@
               <li><a class="dropdown-item" href="VisiMisi.php">Visi Misi</a></li>
               <li><a class="dropdown-item" href="kepalasekolah.php">kepala sekola</a></li>
               <li><a class="dropdown-item" href="kk.php">Konsentrasi Keahlian</a></li>
-              <li><a class="dropdown-item" href="dfguru.php">Daftar Guru</a></li>
             </ul>
           </li>
 
           <li class="nav-item">
             <a class="nav-link" href="Ekstrakulikuler.php">Ekstrakulikuler</a>
           </li>
+          
           <li class="nav-item">
             <a class="nav-link" href="Galeri.php">Galeri</a>
           </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="berita.php">Berita</a>
+          </li> 
+
       </div>
     </div>
   </nav>

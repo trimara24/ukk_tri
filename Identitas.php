@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-lg-12 ">
                 <h3 class="mb-0 my-5 ">Identitas</h3>
-                <h3 class="text-info">Sekolah</h3>
+                <h3 class="text-primary">Sekolah</h3>
                 <div class="row ">
                     <div class="col-lg-12 d-flex justify-content-center ">
                         <div class="card border-0 mb-3">

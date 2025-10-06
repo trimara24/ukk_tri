@@ -27,8 +27,8 @@
   <section>
     <div class="container p-4 mt-5 my-5">
       <div class="row">
-        <h3 class="mb-0 my-5 ">Galeri</h3>
-        <h3 class="text-primary ">SMKN 4 TASIKMALAYA</h3>
+        <h3 class="mb-0 my-5 "></h3>
+        <h3 class="text-primary ">Galeri</h3>
         <div class="card">
           <div class="col-lg-12">
             <h3 class="text-center">PERINGATAN HUT RI KE-80</h3>

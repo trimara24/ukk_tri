@@ -19,7 +19,7 @@
     <!-- Foto Kepala Sekolah -->
       <h5 class="fw-bold">Sambutan <br><span class="text-primary">Kepala Sekolah</span></h5>
     <div class="col-md-4 text-center">
-        <div class="bg-primary p-3 rounded shadow">
+        <div class style="background-color: rgb(15, 102, 136); rounded shadow">
              <img src="galeri/kepsek.png" alt="Kepala Sekolah" class="img-fluid rounded ">
         </div>
     </div>

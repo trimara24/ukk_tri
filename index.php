@@ -60,6 +60,7 @@
       </div>
     </div>
     <!-- End Section: Berita -->
+     
       </div> <!-- End Container -->
 
     <!-- Section: Statistik -->
